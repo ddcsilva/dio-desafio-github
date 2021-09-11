@@ -1,0 +1,14 @@
+Inicialização do Repositório
+git init
+
+Verificação do Status
+git status
+
+Adicionar o arquivo para a Staged
+git add (nome) ou "." para todos os arquivos
+
+Fazer o commit
+git commit -m "Descrição"
+
+Enviar para o repositório remoto
+git push origin main
